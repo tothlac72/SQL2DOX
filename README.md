@@ -9,6 +9,8 @@ Run SQL2DOX (written by me) reads the ASG and the comments. This software create
 Run iconv utility to convert the XML into UTF-8. 
 Run the modified doxygen to show the documentation. Doxygen has used much more element than Columbus so I had to improve its skills. 
 
+Note: SQL2DOX is gzipped!
+
 Folders:
 - SQL2DOX/SQLAPI-28823/Analyzer : The place of Columbus Analyser tool called SQLAn
 - SQL2DOX/SQLAPI-28823/doc : the model of PL/SQL ASG
